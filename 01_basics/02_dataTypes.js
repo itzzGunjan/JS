@@ -18,4 +18,5 @@ console.log(typeof "hitesh");
 console.log(typeof age);
 console.log(typeof null);//-->(object) very important iq for interview
 console.log(typeof undefined);//--> (undefined)
+// learnt this 
 
